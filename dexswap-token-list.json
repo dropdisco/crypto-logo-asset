@@ -1,8 +1,8 @@
 {
   "name": "DexSwap",
-  "timestamp": "2021-07-02T09:12:58.246Z",
+  "timestamp": "2021-07-03T06:05:27.252Z",
   "version": {
-    "major": 2,
+    "major": 1,
     "minor": 1,
     "patch": 1
   },
@@ -478,6 +478,14 @@
       "symbol": "TSM",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/crypto-logo-asset/4c129885788f60e1418eaad3b17dbf94bafeda27/folder/ninja_orange.svg"
+    },
+    {
+      "chainId": 4,
+      "address": "0x09d49Dd171F1894e1C20c2173102bB8C2812682F",
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/crypto-logo-asset/main/usd-coin-usdc-logo.png"
     },
     {
       "chainId": 4,
