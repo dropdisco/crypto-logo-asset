@@ -1,6 +1,6 @@
 {
   "name": "DexSwap",
-  "timestamp": "2021-07-05T15:45:41.829Z",
+  "timestamp": "2021-07-05T15:52:11.519Z",
   "version": {
     "major": 6,
     "minor": 49,
@@ -2309,7 +2309,7 @@
       "address": "0x4f77778ff10fA92c28481F93036Ab9CbD0ee50e1",
       "name": "Dai Stablecoin",
       "symbol": "DAI",
-      "decimals": 6,
+      "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/dai.jpg"
     },
     {
