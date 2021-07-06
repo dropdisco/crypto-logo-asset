@@ -1,6 +1,6 @@
 {
   "name": "DexSwap",
-  "timestamp": "2021-07-05T15:52:11.519Z",
+  "timestamp": "2021-07-06T17:10:54.061Z",
   "version": {
     "major": 6,
     "minor": 49,
@@ -2298,7 +2298,7 @@
     },
     {
       "chainId": 4,
-      "address": "0xBB1D85d2c92a14f7159708E752eA634d8618d2E3",
+      "address": "0xb0B19ec75e01d21E7B7A0c0De791dEa1bFa623F1",
       "name": "Badger DAO",
       "symbol": "BADGER",
       "decimals": 18,
@@ -2306,7 +2306,7 @@
     },
     {
       "chainId": 4,
-      "address": "0x4f77778ff10fA92c28481F93036Ab9CbD0ee50e1",
+      "address": "0xdaD00D4555BBC6d198ffCc278ae85119504bF5A4",
       "name": "Dai Stablecoin",
       "symbol": "DAI",
       "decimals": 18,
@@ -2330,7 +2330,7 @@
     },
     {
       "chainId": 4,
-      "address": "0xf3B76770b03c4Ce8ECFfbaA8B0469B73D6B5fD2d",
+      "address": "0x68a16a1C82Cf1AF5c494eDd8857CE2EC5A0D6613",
       "name": "USD//C",
       "symbol": "USDC",
       "decimals": 6,
@@ -2338,7 +2338,7 @@
     },
     {
       "chainId": 4,
-      "address": "0x6a639133cDd4f7Dfa49A46322f7Adbc9cEb623e1",
+      "address": "0xE1f2a44871c0072Ba36F0cf0276d2614163a39AF",
       "name": "Tether USD",
       "symbol": "USDT",
       "decimals": 6,
