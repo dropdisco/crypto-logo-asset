@@ -1,6 +1,6 @@
 {
   "name": "DexSwap",
-  "timestamp": "2021-07-07T06:55:31.939Z",
+  "timestamp": "2021-07-07T19:36:37.013Z",
   "version": {
     "major": 6,
     "minor": 49,
@@ -2306,11 +2306,11 @@
     },
     {
       "chainId": 4,
-      "address": "0xf30D20363A574Dcdf963C9478CD71043A340fbEc",
-      "name": "Dai Stablecoin",
-      "symbol": "DAI",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/dai.jpg"
+      "address": "0x69659a6280e333F00FD6dA6A3d322eE3921AD8b2",
+      "name": "Digg",
+      "symbol": "DIGG",
+      "decimals": 9,
+      "logoURI": "hhttps://raw.githubusercontent.com/Agin-DropDisco/crypto-logo-asset/main/digg.png"
     },
     {
       "chainId": 4,
@@ -2338,7 +2338,7 @@
     },
     {
       "chainId": 4,
-      "address": "0xB2FFF62D843192C59F8d5c0F16b7F0d4Ab5b2E35",
+      "address": "0x47dc7069a31F857f4783654D3B20F53735f11369",
       "name": "Tether USD",
       "symbol": "USDT",
       "decimals": 6,
@@ -2346,7 +2346,15 @@
     },
     {
       "chainId": 4,
-      "address": "0xc62E1df622Ac30135BceEBB484D5c939Fe0E2318",
+      "address": "0xb75B9a0Ae40C08AfBaD09BF5D12C62A321AA394a",
+      "name": "Wrapped BTC",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/crypto-logo-asset/main/wrapped-bitcoin-wbtc-logo.png"
+    },
+    {
+      "chainId": 4,
+      "address": "0x492Be7548E28337ed8594aD8416E5CBD14DA7a50",
       "name": "Wrapped BTC",
       "symbol": "WBTC",
       "decimals": 8,
@@ -5009,6 +5017,14 @@
       "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/badger.jpg"
     },
     {
+      "chainId": 80001,
+      "address": "0x97B2ae15024B1658Dfd2Ecae3C74FE2023DE1b20",
+      "name": "Digg",
+      "symbol": "DIGG",
+      "decimals": 9,
+      "logoURI": "hhttps://raw.githubusercontent.com/Agin-DropDisco/crypto-logo-asset/main/digg.png"
+    },
+    {
       "name": "Ether",
       "address": "0x714550C2C1Ea08688607D86ed8EeF4f5E4F22323",
       "symbol": "ETH",
@@ -5034,15 +5050,7 @@
     },
     {
       "chainId": 80001,
-      "address": "0xaA2c2aCBFeA90bedc62464e1FcF4a537E9C85420",
-      "name": "USD//C",
-      "symbol": "USDC",
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/crypto-logo-asset/main/usd-coin-usdc-logo.png"
-    },
-    {
-      "chainId": 80001,
-      "address": "0x58aCBDbE1e732168aa83b64CEF730b3a3239b01F",
+      "address": "0x55F60D66AA7B2deeCb5e733C751EEF52b3610280",
       "name": "Tether USD",
       "symbol": "USDT",
       "decimals": 6,
@@ -5058,7 +5066,7 @@
     },
     {
       "chainId": 80001,
-      "address": "0xA9c6d7F92a894310B9C04968326A9dE6D0e38724",
+      "address": "0xfB6F4840103e90B78D47ed42A6fCBC355F940d63",
       "name": "xDEXS",
       "symbol": "xDEXS",
       "decimals": 18,
