@@ -1,6 +1,6 @@
 {
   "name": "DexSwap",
-  "timestamp": "2021-07-06T17:10:54.061Z",
+  "timestamp": "2021-07-07T06:55:31.939Z",
   "version": {
     "major": 6,
     "minor": 49,
@@ -2298,7 +2298,7 @@
     },
     {
       "chainId": 4,
-      "address": "0xb0B19ec75e01d21E7B7A0c0De791dEa1bFa623F1",
+      "address": "0x70bc5a2B2379552ed1B04E7DA3958c2a7f732FE4",
       "name": "Badger DAO",
       "symbol": "BADGER",
       "decimals": 18,
@@ -2306,7 +2306,7 @@
     },
     {
       "chainId": 4,
-      "address": "0xdaD00D4555BBC6d198ffCc278ae85119504bF5A4",
+      "address": "0xf30D20363A574Dcdf963C9478CD71043A340fbEc",
       "name": "Dai Stablecoin",
       "symbol": "DAI",
       "decimals": 18,
@@ -2330,15 +2330,15 @@
     },
     {
       "chainId": 4,
-      "address": "0x68a16a1C82Cf1AF5c494eDd8857CE2EC5A0D6613",
+      "address": "0x69659a6280e333F00FD6dA6A3d322eE3921AD8b2",
       "name": "USD//C",
       "symbol": "USDC",
-      "decimals": 6,
+      "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/crypto-logo-asset/main/usd-coin-usdc-logo.png"
     },
     {
       "chainId": 4,
-      "address": "0xE1f2a44871c0072Ba36F0cf0276d2614163a39AF",
+      "address": "0xB2FFF62D843192C59F8d5c0F16b7F0d4Ab5b2E35",
       "name": "Tether USD",
       "symbol": "USDT",
       "decimals": 6,
@@ -2346,10 +2346,10 @@
     },
     {
       "chainId": 4,
-      "address": "0xB81ca9cA272D7e925D663682B216b5976b3cEC5f",
+      "address": "0xc62E1df622Ac30135BceEBB484D5c939Fe0E2318",
       "name": "Wrapped BTC",
       "symbol": "WBTC",
-      "decimals": 18,
+      "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/crypto-logo-asset/main/wrapped-bitcoin-wbtc-logo.png"
     },
     {
