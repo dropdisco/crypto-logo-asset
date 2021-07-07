@@ -1,6 +1,6 @@
 {
   "name": "DexSwap",
-  "timestamp": "2021-07-07T19:56:39.979Z",
+  "timestamp": "2021-07-07T20:15:42.460Z",
   "version": {
     "major": 6,
     "minor": 49,
@@ -2330,7 +2330,7 @@
     },
     {
       "chainId": 4,
-      "address": "0x69659a6280e333F00FD6dA6A3d322eE3921AD8b2",
+      "address": "0x65e44E2DCa06a7777F45dAa39ebcC170B9B4e592",
       "name": "USD//C",
       "symbol": "USDC",
       "decimals": 18,
@@ -2354,7 +2354,7 @@
     },
     {
       "chainId": 4,
-      "address": "0x492Be7548E28337ed8594aD8416E5CBD14DA7a50",
+      "address": "0x253681a659fC03A4bC1ff05035CcB953323fF9C9",
       "name": "Wrapped BTC",
       "symbol": "WBTC",
       "decimals": 8,
@@ -5010,7 +5010,7 @@
     },
     {
       "chainId": 80001,
-      "address": "0xa3E1be3267b12B456F02F5dBa8ff47F30D67134e",
+      "address": "0x5509e4831F1Cac83E08412822cD51b883CE07033",
       "name": "Badger DAO",
       "symbol": "BADGER",
       "decimals": 18,
@@ -5018,7 +5018,7 @@
     },
     {
       "chainId": 80001,
-      "address": "0x97B2ae15024B1658Dfd2Ecae3C74FE2023DE1b20",
+      "address": "0x7c8E1B485fBDd80C5B1fe4E613483bBc17D3B398",
       "name": "Digg",
       "symbol": "DIGG",
       "decimals": 9,
@@ -5058,7 +5058,15 @@
     },
     {
       "chainId": 80001,
-      "address": "0x55F60D66AA7B2deeCb5e733C751EEF52b3610280",
+      "address": "0x5895D3F2f7D3Ce7d7EfA9B1d0f7048b715e2915f",
+      "name": "USD//C",
+      "symbol": "USDC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/crypto-logo-asset/main/usd-coin-usdc-logo.png"
+    },
+    {
+      "chainId": 80001,
+      "address": "0x51379092D6EF3e40B06e75bD290320bFAAfDaF37",
       "name": "Tether USD",
       "symbol": "USDT",
       "decimals": 6,
@@ -5074,7 +5082,7 @@
     },
     {
       "chainId": 80001,
-      "address": "0xfB6F4840103e90B78D47ed42A6fCBC355F940d63",
+      "address": "0x5Deecd8CeFD3B0711af0B5844e1B37e1f34bEc93",
       "name": "xDEXS",
       "symbol": "xDEXS",
       "decimals": 18,
