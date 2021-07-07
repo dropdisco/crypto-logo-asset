@@ -1,6 +1,6 @@
 {
   "name": "DexSwap",
-  "timestamp": "2021-07-07T19:36:37.013Z",
+  "timestamp": "2021-07-07T19:56:39.979Z",
   "version": {
     "major": 6,
     "minor": 49,
@@ -5028,6 +5028,14 @@
       "name": "Ether",
       "address": "0x714550C2C1Ea08688607D86ed8EeF4f5E4F22323",
       "symbol": "ETH",
+      "decimals": 18,
+      "chainId": 80001,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+    },
+    {
+      "name": "Matic WETH",
+      "address": "0x4DfAe612aaCB5b448C12A591cD0879bFa2e51d62",
+      "symbol": "MTX",
       "decimals": 18,
       "chainId": 80001,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
