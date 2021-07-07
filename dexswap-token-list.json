@@ -1,6 +1,6 @@
 {
   "name": "DexSwap",
-  "timestamp": "2021-07-07T20:15:42.460Z",
+  "timestamp": "2021-07-07T23:47:04.881Z",
   "version": {
     "major": 6,
     "minor": 49,
@@ -2298,7 +2298,7 @@
     },
     {
       "chainId": 4,
-      "address": "0x70bc5a2B2379552ed1B04E7DA3958c2a7f732FE4",
+      "address": "0x656D52d296609264cee25cb0C3A3D57151eA26F2",
       "name": "Badger DAO",
       "symbol": "BADGER",
       "decimals": 18,
@@ -2306,7 +2306,7 @@
     },
     {
       "chainId": 4,
-      "address": "0x69659a6280e333F00FD6dA6A3d322eE3921AD8b2",
+      "address": "0x4d692461d6C8AebDF7D66b8dbFa38fef72720031",
       "name": "Digg",
       "symbol": "DIGG",
       "decimals": 9,
@@ -2330,7 +2330,7 @@
     },
     {
       "chainId": 4,
-      "address": "0x65e44E2DCa06a7777F45dAa39ebcC170B9B4e592",
+      "address": "0x0E028a9dAdBA642e8F97AD22160111A8C33717E4",
       "name": "USD//C",
       "symbol": "USDC",
       "decimals": 18,
@@ -2338,7 +2338,7 @@
     },
     {
       "chainId": 4,
-      "address": "0x47dc7069a31F857f4783654D3B20F53735f11369",
+      "address": "0x777aF1D5293Fa07dF6e3B125A2591fd73eD6a6c2",
       "name": "Tether USD",
       "symbol": "USDT",
       "decimals": 6,
@@ -2346,7 +2346,7 @@
     },
     {
       "chainId": 4,
-      "address": "0xb75B9a0Ae40C08AfBaD09BF5D12C62A321AA394a",
+      "address": "0xe436A52C158B1681ab76e224614ec8ab06D6D907",
       "name": "Wrapped BTC",
       "symbol": "WBTC",
       "decimals": 8,
