@@ -1,6 +1,6 @@
 {
   "name": "DexSwap",
-  "timestamp": "2021-07-07T23:47:04.881Z",
+  "timestamp": "2021-07-08T00:37:24.410Z",
   "version": {
     "major": 6,
     "minor": 49,
@@ -2347,14 +2347,6 @@
     {
       "chainId": 4,
       "address": "0xe436A52C158B1681ab76e224614ec8ab06D6D907",
-      "name": "Wrapped BTC",
-      "symbol": "WBTC",
-      "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/crypto-logo-asset/main/wrapped-bitcoin-wbtc-logo.png"
-    },
-    {
-      "chainId": 4,
-      "address": "0x253681a659fC03A4bC1ff05035CcB953323fF9C9",
       "name": "Wrapped BTC",
       "symbol": "WBTC",
       "decimals": 8,
@@ -5071,6 +5063,14 @@
       "symbol": "USDT",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdt.jpg"
+    },
+    {
+      "chainId": 80001,
+      "address": "0x253681a659fC03A4bC1ff05035CcB953323fF9C9",
+      "name": "Wrapped BTC",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/crypto-logo-asset/main/wrapped-bitcoin-wbtc-logo.png"
     },
     {
       "name": "Wrapped Matic",
