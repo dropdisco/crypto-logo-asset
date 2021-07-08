@@ -2310,7 +2310,7 @@
       "name": "Digg",
       "symbol": "DIGG",
       "decimals": 9,
-      "logoURI": "hhttps://raw.githubusercontent.com/Agin-DropDisco/crypto-logo-asset/main/digg.png"
+      "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/crypto-logo-asset/main/digg.png"
     },
     {
       "chainId": 4,
