@@ -1,6 +1,6 @@
 {
   "name": "DexSwap",
-  "timestamp": "2021-07-11T14:24:36.304Z",
+  "timestamp": "2021-07-11T16:01:01.415Z",
   "version": {
     "major": 6,
     "minor": 49,
@@ -2298,7 +2298,7 @@
     },
     {
       "chainId": 4,
-      "address": "0x2eA310dBFca94E63cFb322559c0e42fdbe05706d",
+      "address": "0xb3cBDf59E8beF640680BD555CAAF2396fc6186F0",
       "name": "Badger DAO",
       "symbol": "BADGER",
       "decimals": 18,
@@ -2338,7 +2338,7 @@
     },
     {
       "chainId": 4,
-      "address": "0x6885444c2DFb0b741C21cbDf3768b48515887C93",
+      "address": "0x3AEfb235b469820618d924726791e9AC4c49C46C",
       "name": "USD//C",
       "symbol": "USDC",
       "decimals": 18,
