@@ -1,6 +1,6 @@
 {
   "name": "DexSwap",
-  "timestamp": "2021-07-11T16:01:01.415Z",
+  "timestamp": "2021-07-12T09:32:02.674Z",
   "version": {
     "major": 6,
     "minor": 49,
@@ -4290,7 +4290,7 @@
     },
     {
       "name": "Badger",
-      "address": "0x1fcbe5937b0cc2adf69772d228fa4205acf4d9b2",
+      "address": "0x1FcbE5937B0cc2adf69772D228fA4205aCF4D9b2",
       "symbol": "BADGER",
       "decimals": 18,
       "chainId": 137,
@@ -4370,7 +4370,7 @@
     },
     {
       "name": "Digg",
-      "address": "0xfdde616084427f0a231d0664a985e1f820e34693",
+      "address": "0xFDde616084427f0A231D0664a985E1F820E34693",
       "symbol": "DIGG",
       "decimals": 18,
       "chainId": 137,
@@ -4730,7 +4730,7 @@
     },
     {
       "name": "xDEXS",
-      "address": "0x4dC4f8894Ba8008bcc3dFed71FCc08999F4a143c",
+      "address": "0x8E8645D7A03d53bF41BcFfE26CfCCBA14354028C",
       "symbol": "xDEXS",
       "decimals": 18,
       "chainId": 137,
@@ -5066,7 +5066,7 @@
     },
     {
       "chainId": 80001,
-      "address": "0xc2eD31aC9B35AB5Eda435B9Ff1e39bf476FFEC5A",
+      "address": "0x0f327e5A5248d3B4355124F8c8b18b344EBca266",
       "name": "Badger DAO",
       "symbol": "BADGER",
       "decimals": 18,
@@ -5106,7 +5106,7 @@
     },
     {
       "chainId": 80001,
-      "address": "0x069A206F4570B4c5446872BabfDc18F5c99a3610",
+      "address": "0xE3369Be2212ca4Ea540868bf5e6Ae2A33D677346",
       "name": "USD//C",
       "symbol": "USDC",
       "decimals": 18,
