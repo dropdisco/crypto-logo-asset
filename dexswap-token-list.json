@@ -4577,14 +4577,6 @@
       "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x580A84C73811E1839F75d86d75d88cCa0c241fF4/logo.png"
     },
     {
-      "name": "renBTC",
-      "address": "0xDBf31dF14B66535aF65AaC99C32e9eA844e14501",
-      "symbol": "renBTC",
-      "decimals": 6,
-      "chainId": 137,
-      "logoURI": "https://assets.coingecko.com/coins/images/11370/small/renBTC.png?1589985711"
-    },
-    {
       "name": "Ren BTC",
       "address": "0xDBf31dF14B66535aF65AaC99C32e9eA844e14501",
       "symbol": "renBTC",
