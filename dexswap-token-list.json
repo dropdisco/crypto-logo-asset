@@ -1,6 +1,6 @@
 {
   "name": "DexSwap",
-  "timestamp": "2021-07-12T15:28:57.727Z",
+  "timestamp": "2021-07-10T14:27:28.104Z",
   "version": {
     "major": 6,
     "minor": 49,
@@ -2298,7 +2298,7 @@
     },
     {
       "chainId": 4,
-      "address": "0xCe8Aa019003BCF92baf0453B6dc78Eb90AB265CF",
+      "address": "0x656D52d296609264cee25cb0C3A3D57151eA26F2",
       "name": "Badger DAO",
       "symbol": "BADGER",
       "decimals": 18,
@@ -2306,19 +2306,11 @@
     },
     {
       "chainId": 4,
-      "address": "0x1e6dA1513fE0b17400c6Cc6c017d7C2EaF138f91",
-      "name": "Dai Stablecoin",
-      "symbol": "DAI",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/icons/master/token/dai.jpg"
-    },
-    {
-      "chainId": 4,
-      "address": "0xEcb9bE18B5E5ED0E00A7110655C15a42911CbaB6",
+      "address": "0x4d692461d6C8AebDF7D66b8dbFa38fef72720031",
       "name": "Digg",
       "symbol": "DIGG",
       "decimals": 9,
-      "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/crypto-logo-asset/main/digg.png"
+      "logoURI": "hhttps://raw.githubusercontent.com/Agin-DropDisco/crypto-logo-asset/main/digg.png"
     },
     {
       "chainId": 4,
@@ -2338,35 +2330,35 @@
     },
     {
       "chainId": 4,
-      "address": "0xb44326868F8E7Fb0c080de44191bD1Eb2c4a869c",
+      "address": "0x0E028a9dAdBA642e8F97AD22160111A8C33717E4",
       "name": "USD//C",
       "symbol": "USDC",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/icons/master/new-token/usdc.png"
+      "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/crypto-logo-asset/main/usd-coin-usdc-logo.png"
     },
     {
       "chainId": 4,
-      "address": "0xe870f7ee9B29453CFB5b8A6709508906d1faFBf8",
+      "address": "0x777aF1D5293Fa07dF6e3B125A2591fd73eD6a6c2",
       "name": "Tether USD",
       "symbol": "USDT",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/icons/master/token/usdt.jpg"
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdt.jpg"
     },
     {
       "chainId": 4,
-      "address": "0xa09636ad974C6Ba5391A7649f87B1f578b9d046D",
+      "address": "0xe436A52C158B1681ab76e224614ec8ab06D6D907",
       "name": "Wrapped BTC",
       "symbol": "WBTC",
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/crypto-logo-asset/main/wrapped-bitcoin-wbtc-logo.png"
     },
     {
-      "chainId": 4,
-      "address": "0xc778417E063141139Fce010982780140Aa0cD5Ab",
       "name": "Wrapped Ether",
+      "address": "0xc778417E063141139Fce010982780140Aa0cD5Ab",
       "symbol": "WETH",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/icons/master/new-token/eth.png"
+      "chainId": 4,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc778417E063141139Fce010982780140Aa0cD5Ab/logo.png"
     },
     {
       "chainId": 4,
@@ -4257,14 +4249,6 @@
       "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/zrx.jpg"
     },
     {
-      "name": "0xBitcoin Token",
-      "address": "0x71B821aa52a49F32EEd535fCA6Eb5aa130085978",
-      "symbol": "0xBTC",
-      "decimals": 8,
-      "chainId": 137,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB6eD7644C69416d67B522e20bC294A9a9B405B31/logo.png"
-    },
-    {
       "name": "Aave",
       "address": "0xD6DF932A45C0f255f85145f286eA0b292B21C90B",
       "symbol": "AAVE",
@@ -4290,7 +4274,7 @@
     },
     {
       "name": "Badger",
-      "address": "0x1FcbE5937B0cc2adf69772D228fA4205aCF4D9b2",
+      "address": "0x1fcbe5937b0cc2adf69772d228fa4205acf4d9b2",
       "symbol": "BADGER",
       "decimals": 18,
       "chainId": 137,
@@ -4337,20 +4321,12 @@
       "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x172370d5Cd63279eFa6d502DAB29171933a610AF/logo.png"
     },
     {
-      "name": "Cartesi Token",
-      "address": "0x2727Ab1c2D22170ABc9b595177B2D5C6E1Ab7B7B",
-      "symbol": "CTSI",
-      "decimals": 18,
-      "chainId": 137,
-      "logoURI": "https://i.imgur.com/q3SnElh.png"
-    },
-    {
       "name": "Dai Stablecoin",
       "address": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
       "symbol": "DAI",
       "decimals": 18,
       "chainId": 137,
-      "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/icons/master/token/dai.jpg"
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063/logo.png"
     },
     {
       "name": "DEGEN Index",
@@ -4370,7 +4346,7 @@
     },
     {
       "name": "Digg",
-      "address": "0xFDde616084427f0A231D0664a985E1F820E34693",
+      "address": "0xfdde616084427f0a231d0664a985e1f820e34693",
       "symbol": "DIGG",
       "decimals": 18,
       "chainId": 137,
@@ -4463,14 +4439,6 @@
       "decimals": 18,
       "chainId": 137,
       "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x5fe2B58c013d7601147DcdD68C143A77499f5531/logo.png"
-    },
-    {
-      "name": "Honey",
-      "address": "0xb371248dd0f9e4061ccf8850e9223ca48aa7ca4b",
-      "symbol": "HNY",
-      "decimals": 18,
-      "chainId": 137,
-      "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/xdai/0x71850b7E9Ee3f13Ab46d67167341E4bDc905Eef9/logo.png"
     },
     {
       "name": "Interest-Bearing BTC",
@@ -4654,7 +4622,7 @@
       "symbol": "USDC",
       "decimals": 6,
       "chainId": 137,
-      "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/icons/master/new-token/usdc.png"
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174/logo.png"
     },
     {
       "name": "Tether USD",
@@ -4662,7 +4630,7 @@
       "symbol": "USDT",
       "decimals": 6,
       "chainId": 137,
-      "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/icons/master/token/usdt.jpg"
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xc2132D05D31c914a87C6611C10748AEb04B58e8F/logo.png"
     },
     {
       "name": "Wrapped BTC",
@@ -4678,7 +4646,7 @@
       "symbol": "WETH",
       "decimals": 18,
       "chainId": 137,
-      "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/icons/master/new-token/eth.png"
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619/logo.png"
     },
     {
       "name": "Wrapped Filecoin",
@@ -4694,7 +4662,7 @@
       "symbol": "WMATIC",
       "decimals": 18,
       "chainId": 137,
-      "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/icons/master/new-token/matic.png"
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270/logo.png"
     },
     {
       "name": "Moonwolf",
@@ -4722,7 +4690,7 @@
     },
     {
       "name": "xDEXS",
-      "address": "0x8E8645D7A03d53bF41BcFfE26CfCCBA14354028C",
+      "address": "0x4dC4f8894Ba8008bcc3dFed71FCc08999F4a143c",
       "symbol": "xDEXS",
       "decimals": 18,
       "chainId": 137,
@@ -5055,94 +5023,6 @@
       "decimals": 18,
       "chainId": 4002,
       "logoURI": "https://cryptologos.cc/logos/fantom-ftm-logo.svg?v=003"
-    },
-    {
-      "chainId": 80001,
-      "address": "0x7B40850612d07BAD315808FdE98298ae97366894",
-      "name": "Badger DAO",
-      "symbol": "BADGER",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/badger.jpg"
-    },
-    {
-      "name": "Dai Stablecoin",
-      "address": "0xa9864cBF96DcB8Cd474A477FC9D76d7C89258Ed8",
-      "symbol": "DAI",
-      "decimals": 18,
-      "chainId": 80001,
-      "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/icons/master/token/dai.jpg"
-    },
-    {
-      "chainId": 80001,
-      "address": "0x7500B68fDE1a402eA64088A653BBd791f1314F4B",
-      "name": "Digg",
-      "symbol": "DIGG",
-      "decimals": 9,
-      "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/crypto-logo-asset/main/digg.png"
-    },
-    {
-      "chainId": 80001,
-      "address": "0x49e14c9E971956f6C4aF76ECB57fF800337E8b00",
-      "name": "Tashiramina",
-      "symbol": "THM",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/crypto-logo-asset/4c129885788f60e1418eaad3b17dbf94bafeda27/folder/ninja_yellow.svg"
-    },
-    {
-      "chainId": 80001,
-      "address": "0x7139c2453f75685A4751399d0459da12bC2d2cb7",
-      "name": "Teshimono",
-      "symbol": "TSM",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/crypto-logo-asset/4c129885788f60e1418eaad3b17dbf94bafeda27/folder/ninja_orange.svg"
-    },
-    {
-      "chainId": 80001,
-      "address": "0xdC22FE2167dF1396bf0a99C41bffF5AB700eE00D",
-      "name": "USD//C",
-      "symbol": "USDC",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/icons/master/new-token/usdc.png"
-    },
-    {
-      "chainId": 80001,
-      "address": "0xa35f61bc72b111523fFf8f38aA8A3a5Cb444d84B",
-      "name": "Tether USD",
-      "symbol": "USDT",
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/icons/master/token/usdt.jpg"
-    },
-    {
-      "chainId": 80001,
-      "address": "0x6146C5cE90DcEc44e870e78269017E2Ace19a9de",
-      "name": "Wrapped BTC",
-      "symbol": "WBTC",
-      "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/crypto-logo-asset/main/wrapped-bitcoin-wbtc-logo.png"
-    },
-    {
-      "name": "Wrapped Ether",
-      "address": "0xa6fa4fb5f76172d178d61b04b0ecd319c5d1c0aa",
-      "symbol": "WETH",
-      "decimals": 18,
-      "chainId": 80001,
-      "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/icons/master/new-token/eth.png"
-    },
-    {
-      "name": "Wrapped Matic",
-      "address": "0x9c3C9283D3e44854697Cd22D3Faa240Cfb032889",
-      "symbol": "WMATIC",
-      "decimals": 18,
-      "chainId": 80001,
-      "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/icons/master/new-token/matic.png"
-    },
-    {
-      "chainId": 80001,
-      "address": "0x076D76aCb015cF7B005BBE6c0F90911E3AD81101",
-      "name": "xDEXS",
-      "symbol": "xDEXS",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/crypto-logo-asset/4c129885788f60e1418eaad3b17dbf94bafeda27/folder/orange.svg"
     }
   ]
 }
