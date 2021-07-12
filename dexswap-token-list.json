@@ -1,6 +1,6 @@
 {
   "name": "DexSwap",
-  "timestamp": "2021-07-12T09:32:02.674Z",
+  "timestamp": "2021-07-12T15:28:57.727Z",
   "version": {
     "major": 6,
     "minor": 49,
@@ -2298,23 +2298,23 @@
     },
     {
       "chainId": 4,
-      "address": "0xb3cBDf59E8beF640680BD555CAAF2396fc6186F0",
+      "address": "0xCe8Aa019003BCF92baf0453B6dc78Eb90AB265CF",
       "name": "Badger DAO",
       "symbol": "BADGER",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/badger.jpg"
     },
     {
+      "chainId": 4,
+      "address": "0x1e6dA1513fE0b17400c6Cc6c017d7C2EaF138f91",
       "name": "Dai Stablecoin",
-      "address": "0xF1fe0bCB8c8f0cdC0Ec33E05caE2A2e5B5678027",
       "symbol": "DAI",
       "decimals": 18,
-      "chainId": 4,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/icons/master/token/dai.jpg"
     },
     {
       "chainId": 4,
-      "address": "0xAC65f180207E691Af4130930b619bcAD22f26356",
+      "address": "0xEcb9bE18B5E5ED0E00A7110655C15a42911CbaB6",
       "name": "Digg",
       "symbol": "DIGG",
       "decimals": 9,
@@ -2338,35 +2338,35 @@
     },
     {
       "chainId": 4,
-      "address": "0x3AEfb235b469820618d924726791e9AC4c49C46C",
+      "address": "0xb44326868F8E7Fb0c080de44191bD1Eb2c4a869c",
       "name": "USD//C",
       "symbol": "USDC",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/crypto-logo-asset/main/usd-coin-usdc-logo.png"
+      "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/icons/master/new-token/usdc.png"
     },
     {
       "chainId": 4,
-      "address": "0xC61906D4498fc86b96646A7c17Ac5c933c10FC08",
+      "address": "0xe870f7ee9B29453CFB5b8A6709508906d1faFBf8",
       "name": "Tether USD",
       "symbol": "USDT",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdt.jpg"
+      "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/icons/master/token/usdt.jpg"
     },
     {
       "chainId": 4,
-      "address": "0xaB5D6C6919dB5142d32E0491d13655acb5BCE713",
+      "address": "0xa09636ad974C6Ba5391A7649f87B1f578b9d046D",
       "name": "Wrapped BTC",
       "symbol": "WBTC",
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/crypto-logo-asset/main/wrapped-bitcoin-wbtc-logo.png"
     },
     {
-      "name": "Wrapped Ether",
+      "chainId": 4,
       "address": "0xc778417E063141139Fce010982780140Aa0cD5Ab",
+      "name": "Wrapped Ether",
       "symbol": "WETH",
       "decimals": 18,
-      "chainId": 4,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc778417E063141139Fce010982780140Aa0cD5Ab/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/icons/master/new-token/eth.png"
     },
     {
       "chainId": 4,
@@ -4350,7 +4350,7 @@
       "symbol": "DAI",
       "decimals": 18,
       "chainId": 137,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/icons/master/token/dai.jpg"
     },
     {
       "name": "DEGEN Index",
@@ -4654,7 +4654,7 @@
       "symbol": "USDC",
       "decimals": 6,
       "chainId": 137,
-      "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/icons/master/new-token/usdc.png"
     },
     {
       "name": "Tether USD",
@@ -4662,7 +4662,7 @@
       "symbol": "USDT",
       "decimals": 6,
       "chainId": 137,
-      "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xc2132D05D31c914a87C6611C10748AEb04B58e8F/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/icons/master/token/usdt.jpg"
     },
     {
       "name": "Wrapped BTC",
@@ -4678,7 +4678,7 @@
       "symbol": "WETH",
       "decimals": 18,
       "chainId": 137,
-      "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/icons/master/new-token/eth.png"
     },
     {
       "name": "Wrapped Filecoin",
@@ -4694,7 +4694,7 @@
       "symbol": "WMATIC",
       "decimals": 18,
       "chainId": 137,
-      "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/icons/master/new-token/matic.png"
     },
     {
       "name": "Moonwolf",
@@ -5058,7 +5058,7 @@
     },
     {
       "chainId": 80001,
-      "address": "0x0f327e5A5248d3B4355124F8c8b18b344EBca266",
+      "address": "0x7B40850612d07BAD315808FdE98298ae97366894",
       "name": "Badger DAO",
       "symbol": "BADGER",
       "decimals": 18,
@@ -5066,15 +5066,15 @@
     },
     {
       "name": "Dai Stablecoin",
-      "address": "0x981585338b52e76B6A1B2A18e07F14DA816BF4D4",
+      "address": "0xa9864cBF96DcB8Cd474A477FC9D76d7C89258Ed8",
       "symbol": "DAI",
       "decimals": 18,
       "chainId": 80001,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/icons/master/token/dai.jpg"
     },
     {
       "chainId": 80001,
-      "address": "0x553653c28c4D6Aa8dD089B5a1A4F588cBadCAb4f",
+      "address": "0x7500B68fDE1a402eA64088A653BBd791f1314F4B",
       "name": "Digg",
       "symbol": "DIGG",
       "decimals": 9,
@@ -5098,23 +5098,23 @@
     },
     {
       "chainId": 80001,
-      "address": "0xE3369Be2212ca4Ea540868bf5e6Ae2A33D677346",
+      "address": "0xdC22FE2167dF1396bf0a99C41bffF5AB700eE00D",
       "name": "USD//C",
       "symbol": "USDC",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/crypto-logo-asset/main/usd-coin-usdc-logo.png"
+      "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/icons/master/new-token/usdc.png"
     },
     {
       "chainId": 80001,
-      "address": "0xd79aD65d7422eD8EACafAdB164AA9456DDA93aBA",
+      "address": "0xa35f61bc72b111523fFf8f38aA8A3a5Cb444d84B",
       "name": "Tether USD",
       "symbol": "USDT",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdt.jpg"
+      "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/icons/master/token/usdt.jpg"
     },
     {
       "chainId": 80001,
-      "address": "0x29278fcc2071e4122eFFcbdca67355CE883b697e",
+      "address": "0x6146C5cE90DcEc44e870e78269017E2Ace19a9de",
       "name": "Wrapped BTC",
       "symbol": "WBTC",
       "decimals": 8,
@@ -5126,7 +5126,7 @@
       "symbol": "WETH",
       "decimals": 18,
       "chainId": 80001,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/icons/master/new-token/eth.png"
     },
     {
       "name": "Wrapped Matic",
@@ -5134,7 +5134,7 @@
       "symbol": "WMATIC",
       "decimals": 18,
       "chainId": 80001,
-      "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/icons/master/new-token/matic.png"
     },
     {
       "chainId": 80001,
