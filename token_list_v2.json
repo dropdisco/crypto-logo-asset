@@ -1,6 +1,6 @@
 {
   "name": "DexSwap",
-  "timestamp": "2021-07-15T09:33:42.620Z",
+  "timestamp": "2021-07-15T09:42:44.598Z",
   "version": {
     "major": 6,
     "minor": 49,
@@ -5100,7 +5100,7 @@
       "name": "USD//C",
       "address": "0xfCE8cf67e37628e8734E6235E78eB3369790831C",
       "symbol": "USDC",
-      "decimals": 18,
+      "decimals": 6,
       "chainId": 80001,
       "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/icons/master/new-token/usdc.png"
     },
