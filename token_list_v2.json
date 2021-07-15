@@ -1,6 +1,6 @@
 {
   "name": "DexSwap",
-  "timestamp": "2021-07-15T09:42:44.598Z",
+  "timestamp": "2021-07-15T10:00:41.098Z",
   "version": {
     "major": 6,
     "minor": 49,
@@ -5098,7 +5098,7 @@
     },
     {
       "name": "USD//C",
-      "address": "0xfCE8cf67e37628e8734E6235E78eB3369790831C",
+      "address": "0x0796528AAd30b4aCB09f5dC3eB30F9064ca60827",
       "symbol": "USDC",
       "decimals": 6,
       "chainId": 80001,
