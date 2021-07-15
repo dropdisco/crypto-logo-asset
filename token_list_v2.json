@@ -1,6 +1,6 @@
 {
   "name": "DexSwap",
-  "timestamp": "2021-07-15T09:20:12.743Z",
+  "timestamp": "2021-07-15T09:33:42.620Z",
   "version": {
     "major": 6,
     "minor": 49,
@@ -5057,7 +5057,7 @@
       "logoURI": "https://cryptologos.cc/logos/fantom-ftm-logo.svg?v=003"
     },
     {
-      "name": "Badger DAO (PoS)",
+      "name": "Badger DAO",
       "address": "0x366c84DF4f7793803B336e90f8776D79D3746932",
       "symbol": "BADGER",
       "decimals": 18,
@@ -5065,7 +5065,7 @@
       "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/badger.jpg"
     },
     {
-      "name": "Dai Stablecoin (PoS)",
+      "name": "Dai Stablecoin",
       "address": "0x68F37B6A90Ad1e7ffc421A12554c6Ab9C61Be7b6",
       "symbol": "DAI",
       "decimals": 18,
@@ -5073,7 +5073,7 @@
       "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/icons/master/token/dai.jpg"
     },
     {
-      "name": "Badger Sett Digg (PoS)",
+      "name": "Badger Sett Digg",
       "address": "0x0104bbe7801A11995c0c4e45f7aC608b58DD1dbD",
       "symbol": "DIGG",
       "decimals": 18,
@@ -5097,7 +5097,7 @@
       "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/crypto-logo-asset/4c129885788f60e1418eaad3b17dbf94bafeda27/folder/ninja_orange.svg"
     },
     {
-      "name": "USD//C (PoS)",
+      "name": "USD//C",
       "address": "0xfCE8cf67e37628e8734E6235E78eB3369790831C",
       "symbol": "USDC",
       "decimals": 18,
@@ -5105,7 +5105,7 @@
       "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/icons/master/new-token/usdc.png"
     },
     {
-      "name": "Tether USD (PoS)",
+      "name": "Tether USD",
       "address": "0xF053C48484DB5A1221D284b9ca225E34dCBdd376",
       "symbol": "USDT",
       "decimals": 6,
@@ -5113,7 +5113,7 @@
       "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/icons/master/token/usdt.jpg"
     },
     {
-      "name": "Wrapped BTC (PoS)",
+      "name": "Wrapped BTC",
       "address": "0xD54Cc629ffcac00592cB578e0dA095a097548d80",
       "symbol": "WBTC",
       "decimals": 8,
@@ -5121,7 +5121,7 @@
       "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/crypto-logo-asset/main/wrapped-bitcoin-wbtc-logo.png"
     },
     {
-      "name": "Wrapped Ether (PoS)",
+      "name": "Wrapped Ether",
       "address": "0x60FC5ACA39B2fff0Db67C55d85c77062ED8B604B",
       "symbol": "WETH",
       "decimals": 18,
@@ -5137,7 +5137,7 @@
       "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/icons/master/new-token/matic.png"
     },
     {
-      "name": "xDEXS (PoS)",
+      "name": "xDEXS",
       "address": "0xBb5e7842a52d54484898B281E0E7F8a73Ee1781c",
       "symbol": "xDEXS",
       "decimals": 18,
