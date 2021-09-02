@@ -2309,7 +2309,7 @@
       "address": "0xA7B48892d33b4615322BA61b2cffe6F295d512d5",
       "name": "Digg",
       "symbol": "DIGG",
-      "decimals": 9,
+      "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/crypto-logo-asset/main/digg.png"
     },
     {
@@ -2341,7 +2341,7 @@
       "address": "0x1dbdFBF4787b14c2D0936E1B48546641E33A8418",
       "name": "Tether USD",
       "symbol": "USDT",
-      "decimals": 6,
+      "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdt.jpg"
     },
     {
@@ -2349,7 +2349,7 @@
       "address": "0x15f3Adb465bBc6e880093EC70C8559Fd054aD439",
       "name": "Wrapped BTC",
       "symbol": "WBTC",
-      "decimals": 8,
+      "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/crypto-logo-asset/main/wrapped-bitcoin-wbtc-logo.png"
     },
     {
