@@ -2576,7 +2576,7 @@
     },
     {
     "chainId": 1666600000,
-    "address": "0x224e64ec1bdce3870a6a6c777edd450454068fec",
+    "address": "0x224e64ec1BDce3870a6a6c777eDd450454068FEC",
     "symbol": "UST",
     "name": "Wrapped UST Token",
     "decimals": 18,
