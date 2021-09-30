@@ -2575,14 +2575,6 @@
       "logoURI": "https://assets.coingecko.com/coins/images/4344/small/Y88JAze.png"
     },
     {
-      "chainId": 1666600000,
-      "address": "0x47f08700D6d090509F3574CBd75b8599777fCD9c",
-      "symbol": "xDEXS",
-      "name": "xDEXS",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/crypto-logo-asset/4c129885788f60e1418eaad3b17dbf94bafeda27/folder/orange.svg"
-    },
-    {
     "chainId": 1666600000,
     "address": "0x224e64ec1bdce3870a6a6c777edd450454068fec",
     "symbol": "UST",
