@@ -2608,6 +2608,38 @@
     },
     {
       "chainId": 1666700000,
+      "address": "0x4438B768a82098839304746f7E90D88620eAbb6C",
+      "symbol": "1USDT",
+      "name": "Tether USD",
+      "decimals": 0,
+      "logoURI": "https://assets.coingecko.com/coins/images/325/small/Tether-logo.png"
+    },
+    {
+      "chainId": 1666700000,
+      "address": "0x9fD079e2C9531e68dF4D3859b89A4c57a0B06AdA",
+      "symbol": "1USDC",
+      "name": "USD Coin",
+      "decimals": 0,
+      "logoURI": "https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png"
+    },
+    {
+      "chainId": 1666700000,
+      "address": "0xFCC6CFD4111218188530F7f1ADA5d89DA13E34cA",
+      "symbol": "1DAI",
+      "name": "Dai Stablecoin",
+      "decimals": 0,
+      "logoURI": "https://assets.coingecko.com/coins/images/9956/small/dai-multi-collateral-mcd.png"
+    },
+        {
+      "chainId": 1666700000,
+      "address": "0xC409D2f969EC12ebAC88765c03a9eED42eAC0EE9",
+      "symbol": "ZOO",
+      "name": "Zoo Token Testnet",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/crypto-logo-asset/main/zoo.png"
+    },
+    {
+      "chainId": 1666700000,
       "address": "0x1E120B3b4aF96e7F394ECAF84375b1C661830013",
       "symbol": "1ETH",
       "name": "OneETH",
