@@ -2584,7 +2584,7 @@
       },
       {
         "chainId": 1666600000,
-        "address": "0x47f08700D6d090509F3574CBd75b8599777fCD9c",
+        "address": "0xAe04642872a4B3a479D1404048e44166c9aA7a19",
         "symbol": "xDEXS",
         "name": "xDEXS",
         "decimals": 18,
@@ -2680,7 +2680,7 @@
       },
       {
         "name": "xDEXS",
-        "address": "0xDCfe8E086A17ac9Fd27f95fd7fCe2f78546A2c95",
+        "address": "0x9a7db07DfB901774FCcBB201C9e07e6A2cEa25E0",
         "symbol": "xDEXS",
         "decimals": 18,
         "chainId": 1666700000,
