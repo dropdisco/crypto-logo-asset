@@ -2640,6 +2640,14 @@
       },
       {
         "chainId": 1666700000,
+        "address": "0xC40faA614FaAf9e124eE967aDF3Cc8efF56faAeF",
+        "symbol": "ZOO",
+        "name": "ZooToken",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/crypto-logo-asset/main/zoo.png"
+      },
+      {
+        "chainId": 1666700000,
         "address": "0x11F477aE5f42335928fC94601a8A81ec77b27b2b",
         "symbol": "VIPER",
         "name": "Viper",
