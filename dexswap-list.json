@@ -2616,14 +2616,6 @@
       },
       {
         "chainId": 1666700000,
-        "address": "0x12f839b098d1446ba9b25c4F6f7Ef49cc1846dEd",
-        "symbol": "1USDT",
-        "name": "OneUSDT",
-        "decimals": 18,
-        "logoURI": "https://assets.coingecko.com/coins/images/325/small/Tether-logo.png"
-      },
-      {
-        "chainId": 1666700000,
         "address": "0x33B465B61EBb322E6336437b2624F705a34a0Df0",
         "symbol": "1USDC",
         "name": "OneUSDC",
@@ -2632,35 +2624,11 @@
       },
       {
         "chainId": 1666700000,
-        "address": "0x12b7146CC70F2F1422B3b11B116f10F1925d256A",
-        "symbol": "1UST",
-        "name": "OneUST",
-        "decimals": 18,
-        "logoURI": "https://assets.coingecko.com/coins/images/12681/small/UST.png"
-      },
-      {
-        "chainId": 1666700000,
-        "address": "0xC40faA614FaAf9e124eE967aDF3Cc8efF56faAeF",
+        "address": "0x8c59d7A7cEFa2Ae0EdB0b4051628d0f91B3b3c62",
         "symbol": "ZOO",
         "name": "ZooToken",
         "decimals": 18,
         "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/crypto-logo-asset/main/zoo.png"
-      },
-      {
-        "chainId": 1666700000,
-        "address": "0x11F477aE5f42335928fC94601a8A81ec77b27b2b",
-        "symbol": "VIPER",
-        "name": "Viper",
-        "decimals": 18,
-        "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/VIPER.png"
-      },
-      {
-        "chainId": 1666700000,
-        "address": "0xC27255D7805Fc79e4616d5CD50D6f4464AEa75A3",
-        "symbol": "1DAI",
-        "name": "OneDAI",
-        "decimals": 18,
-        "logoURI": "https://assets.coingecko.com/coins/images/9956/small/dai-multi-collateral-mcd.png"
       },
       {
         "chainId": 1666700000,
@@ -2672,19 +2640,19 @@
       },
       {
         "chainId": 1666700000,
-        "address": "0x2C6e26B2faD89bc52d043e78E3D980A08af0Ce88",
-        "symbol": "1LINK",
-        "name": "OneChainlink",
+        "address": "0x4BEBb4F097C0537c8e7887C30109fB0fD99Ca75c",
+        "symbol": "DEZU",
+        "name": "DexSwapZoo",
         "decimals": 18,
-        "logoURI": "https://assets.coingecko.com/coins/images/877/small/chainlink-new-logo.png"
+        "logoURI": "https://zooharmony.mypinata.cloud/ipfs/bafkreiapmhluei64kj24qwhj7a27zid63pmmifz4zf4ymjaqjoatqobaem"
       },
       {
         "chainId": 1666700000,
-        "address": "0x6c4387C4f570Aa8cAdcaFFc5E73ecb3D0F8Fc593",
-        "symbol": "WBTC",
-        "name": "Wrapped BTC",
-        "decimals": 8,
-        "logoURI": "https://assets.coingecko.com/coins/images/7598/small/wrapped_bitcoin_wbtc.png"
+        "address": "0xbd38b88bAA29ADF42f81D74E6EaBCE44f1B38e33",
+        "symbol": "ZDEX",
+        "name": "ZooDex",
+        "decimals": 18,
+        "logoURI": "https://zooharmony.mypinata.cloud/ipfs/bafkreie3z36tc5sjqeo6f7vaywnwbsmyg7vlvfc6cuwtzrsjgwth6sa2c4"
       },
       {
         "name": "Wrapped ONE",
