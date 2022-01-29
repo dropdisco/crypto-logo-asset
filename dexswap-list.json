@@ -2644,7 +2644,7 @@
         "symbol": "DEZU",
         "name": "DexSwapZoo",
         "decimals": 18,
-        "logoURI": "https://zooharmony.mypinata.cloud/ipfs/bafkreiapmhluei64kj24qwhj7a27zid63pmmifz4zf4ymjaqjoatqobaem"
+        "logoURI": "https://zooharmony.mypinata.cloud/ipfs/QmTML8UbuepiJTbr18MjNrX4NV7zmgkRnPM8irgm9AreA6"
       },
       {
         "chainId": 1666700000,
@@ -2652,7 +2652,7 @@
         "symbol": "ZDEX",
         "name": "ZooDex",
         "decimals": 18,
-        "logoURI": "https://zooharmony.mypinata.cloud/ipfs/bafkreie3z36tc5sjqeo6f7vaywnwbsmyg7vlvfc6cuwtzrsjgwth6sa2c4"
+        "logoURI": "https://zooharmony.mypinata.cloud/ipfs/QmQQ7zUDfEedV55b7kdyh2TeiWufaVAnS7wvquasHLUqqt"
       },
       {
         "name": "Wrapped ONE",
