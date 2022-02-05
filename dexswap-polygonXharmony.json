@@ -2712,7 +2712,7 @@
     },
     {
         "name": "USD//C",
-        "address": "0xd51AD3a09bE3fc8CB233BC665F3763B3f73b4ec6",
+        "address": "0xeDC606d083dAB26DecD226F93969Fd798353d569",
         "symbol": "USDC",
         "decimals": 18,
         "chainId": 80001,
