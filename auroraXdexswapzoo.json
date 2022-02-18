@@ -2728,7 +2728,7 @@
         {
             "name": "Wrapped Aurora",
             "address": "0x784e5B8541410284092cf465Cd455Beb09aAcdc3",
-            "symbol": "AURORA",
+            "symbol": "WAURORA",
             "decimals": 18,
             "chainId": 1313161555,
             "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/icons/master/new-token/matic.png"
