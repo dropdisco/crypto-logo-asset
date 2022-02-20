@@ -2718,6 +2718,14 @@
             "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/icons/master/new-token/usdc.png"
         },
         {
+            "name": "ZooHarmony",
+            "address": "0xfe9ACf9f058c9324B7A6CE576e07485414b94B17",
+            "symbol": "ZOO",
+            "decimals": 18,
+            "chainId": 1313161555,
+            "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/crypto-logo-asset/main/zoo.png"
+        },
+        {
             "name": "DexSwapZoo",
             "address": "0x45e92Dd180ECa40f90556Aa5B84620F253194E5E",
             "symbol": "DEZU",
@@ -2734,8 +2742,16 @@
             "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/icons/master/new-token/matic.png"
         },
         {
+            "name": "Binance USD",
+            "address": "0x11fc9F70Fae55fCFfE76231475ef8197fD866157",
+            "symbol": "BUSD",
+            "chainId": 1313161555,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/busd.jpg"
+        },
+        {
             "name": "Dai Stablecoin",
-            "address": "0xd3fAFfafE0D2339D66C3F63B6740007eFF3e634A",
+            "address": "0xfa11E45e769d26AdBf393395EbEe53ae1a20fe97",
             "symbol": "DAI",
             "decimals": 18,
             "chainId": 1313161555,
@@ -2743,7 +2759,7 @@
         },
         {
             "name": "USD//C",
-            "address": "0x69b107a88107DD99Fadcfc82C1B6F3D6F04Ca6E6",
+            "address": "0x0A96dA17a200Da8BDA97150D09c78a7ab5a2722d",
             "symbol": "USDC",
             "decimals": 18,
             "chainId": 1313161555,
@@ -2751,7 +2767,7 @@
         },
         {
             "name": "Tether USD",
-            "address": "0x61bB797A838100c7B4C99Ae8a307FEd5d669B6F6",
+            "address": "0xd751E2d401b37B449E5230BfbB6F0e7eECa724f3",
             "symbol": "USDT",
             "decimals": 18,
             "chainId": 1313161555,
@@ -2765,18 +2781,5 @@
             "chainId": 1313161555,
             "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/btc.jpg"
         }
-
-
-
-
-
-
-
-
-
-
-
-
-
     ]
 }
