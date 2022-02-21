@@ -2731,6 +2731,14 @@
             "symbol": "DEZU",
             "decimals": 18,
             "chainId": 1313161555,
+            "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/crypto-logo-asset/main/DEZU.png"
+        },
+        {
+            "name": "ZooDex",
+            "address": "0x48b7f5f6FE841FA466c589f219838310f311858B",
+            "symbol": "ZDEX",
+            "decimals": 18,
+            "chainId": 1313161555,
             "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/crypto-logo-asset/main/zoodexblue.png"
         },
         {
