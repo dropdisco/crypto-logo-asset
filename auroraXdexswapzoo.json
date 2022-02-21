@@ -2723,7 +2723,7 @@
             "symbol": "ZOO",
             "decimals": 18,
             "chainId": 1313161555,
-            "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/crypto-logo-asset/main/zoo.png"
+            "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/crypto-logo-asset/main/zooblue.png"
         },
         {
             "name": "DexSwapZoo",
@@ -2731,7 +2731,7 @@
             "symbol": "DEZU",
             "decimals": 18,
             "chainId": 1313161555,
-            "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/crypto-logo-asset/main/dexswap_orange.png"
+            "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/crypto-logo-asset/main/zoodexblue.png"
         },
         {
             "name": "Wrapped Aurora",
@@ -2739,7 +2739,7 @@
             "symbol": "WAURORA",
             "decimals": 18,
             "chainId": 1313161555,
-            "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/icons/master/new-token/matic.png"
+            "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/crypto-logo-asset/main/auroraLogo.png"
         },
         {
             "name": "Binance USD",
