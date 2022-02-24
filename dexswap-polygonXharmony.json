@@ -2471,14 +2471,6 @@
         },
         {
             "chainId": 1666600000,
-            "address": "0xC0DfB47CCFd448134836e7760cd3ea8FECc7EaDE",
-            "symbol": "ZOO",
-            "name": "Zoo Token",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/crypto-logo-asset/main/zoo.png"
-        },
-        {
-            "chainId": 1666600000,
             "address": "0x3C2B8Be99c50593081EAA2A724F0B8285F5aba8f",
             "symbol": "1USDT",
             "name": "Tether USD",
