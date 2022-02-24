@@ -2587,7 +2587,7 @@
             "symbol": "DEZU",
             "name": "DexSwapZoo",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/crypto-logo-asset/main/revamp-logo/DEZU.png"
+            "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/crypto-logo-asset/main/revamp-logo/transparent/Dezu.png"
         },
         {
             "chainId": 1666600000,
@@ -2595,7 +2595,7 @@
             "symbol": "ZOO",
             "name": "ZooHarmony",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/crypto-logo-asset/main/revamp-logo/ZOO.png"
+            "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/crypto-logo-asset/main/revamp-logo/transparent/Zoo.png"
         },
         {
             "chainId": 1666600000,
@@ -2603,7 +2603,7 @@
             "symbol": "ZDEX",
             "name": "ZooDex",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/crypto-logo-asset/main/revamp-logo/ZDEX.png"
+            "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/crypto-logo-asset/main/revamp-logo/transparent/ZooDex.png"
         },
         {
             "chainId": 1666600000,
