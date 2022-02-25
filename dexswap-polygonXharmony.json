@@ -2591,7 +2591,7 @@
         },
         {
             "chainId": 1666600000,
-            "address": "0x133eDaD5ee52CFf184cf2B28B022D2a3F24E8AAB",
+            "address": "0x9E0882e93d7f19E3D3Fc6d062652FE7e9E375Fda",
             "symbol": "ZOO",
             "name": "ZooHarmony",
             "decimals": 18,
@@ -2599,7 +2599,7 @@
         },
         {
             "chainId": 1666600000,
-            "address": "0x8c59d7A7cEFa2Ae0EdB0b4051628d0f91B3b3c62",
+            "address": "0x7Ba5101a2Ca65b526Cae191A190174BaCD85AA67",
             "symbol": "ZDEX",
             "name": "ZooDex",
             "decimals": 18,
