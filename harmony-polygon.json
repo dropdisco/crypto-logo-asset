@@ -2654,14 +2654,6 @@
             "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/crypto-logo-asset/main/revamp-logo/transparent/ZooDex.png"
         },
         {
-            "name": "DexSwapZoo",
-            "address": "0xbE40C5586edFAB7D296d1BF0fBd8bB56Ca4436CC",
-            "symbol": "DEZU",
-            "decimals": 18,
-            "chainId": 80001,
-            "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/crypto-logo-asset/main/revamp-logo/transparent/Dezu.png"
-        },
-        {
             "chainId": 80001,
             "address": "0x9072E625EB73A42F0FeFF5278Ed132c14B00D0cD",
             "symbol": "ZDEX",
