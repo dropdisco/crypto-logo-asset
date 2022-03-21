@@ -2651,39 +2651,31 @@
             "symbol": "ZDEX",
             "name": "ZooDex",
             "decimals": 18,
-            "logoURI": "https://zooharmony.mypinata.cloud/ipfs/QmW2DEHmghkmEPsYnoJSTCFf8BSm2RsGkN88fsToxmMyyQ"
+            "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/crypto-logo-asset/main/revamp-logo/transparent/ZooDex.png"
         },
         {
             "name": "DexSwapZoo",
-            "address": "0x4F80365e46da3A5B03458c31CccB3b640E12d4fE",
+            "address": "0xd91e528577e1Caf2edb60d86ae2AFaEeF405E3F6",
             "symbol": "DEZU",
             "decimals": 18,
             "chainId": 80001,
-            "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/crypto-logo-asset/main/dexswap_orange.png"
+            "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/crypto-logo-asset/main/DexSwapZoo.png"
         },
         {
             "chainId": 80001,
-            "address": "0x8B53857DB112B35E23cacf65DE7668AD6cF0c8dC",
+            "address": "0x9072E625EB73A42F0FeFF5278Ed132c14B00D0cD",
             "symbol": "ZDEX",
             "name": "ZooDex",
             "decimals": 18,
-            "logoURI": "https://zooharmony.mypinata.cloud/ipfs/QmW2DEHmghkmEPsYnoJSTCFf8BSm2RsGkN88fsToxmMyyQ"
+            "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/crypto-logo-asset/main/revamp-logo/transparent/ZooDex.png"
         },
         {
             "name": "ZooHarmony",
-            "address": "0xAd2F2D10d8056ECa21A26436245AC2666a6662aB",
+            "address": "0x9Da20fB6362538caa35cB0414C48D853a61d99EA",
             "symbol": "ZOO",
             "decimals": 18,
             "chainId": 80001,
-            "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/crypto-logo-asset/main/zoo.png"
-        },
-        {
-            "name": "Tether USD",
-            "address": "0x3813e82e6f7098b9583FC0F33a962D02018B6803",
-            "symbol": "USDT",
-            "decimals": 18,
-            "chainId": 80001,
-            "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/icons/master/token/usdt.jpg"
+            "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/crypto-logo-asset/main/revamp-logo/transparent/Zoo.png"
         },
         {
             "name": "Wrapped Ether",
@@ -2702,8 +2694,16 @@
             "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/icons/master/new-token/matic.png"
         },
         {
+            "name": "Tether USD",
+            "address": "0x361b18b05d1341f5B0c709D70c6d32d8A20DE00A",
+            "symbol": "USDT",
+            "decimals": 18,
+            "chainId": 80001,
+            "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/icons/master/token/usdt.jpg"
+        },
+        {
             "name": "Dai Stablecoin",
-            "address": "0xcB1e72786A6eb3b44C2a2429e317c8a2462CFeb1",
+            "address": "0x9379c9E4f584FA748514DC026Abe64b267E6C739",
             "symbol": "DAI",
             "decimals": 18,
             "chainId": 80001,
@@ -2711,11 +2711,124 @@
         },
         {
             "name": "USD//C",
-            "address": "0xeDC606d083dAB26DecD226F93969Fd798353d569",
+            "address": "0x2b51B005104d3F23068F3c7b75d08204c62A3f43",
             "symbol": "USDC",
             "decimals": 18,
             "chainId": 80001,
             "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/icons/master/new-token/usdc.png"
+        },
+        	
+        {
+            "name": "Poof Governance Token",
+            "address": "0x00400FcbF0816bebB94654259de7273f4A05c762",
+            "symbol": "POOF",
+            "decimals": 18,
+            "chainId": 44787,
+            "logoURI": "https://raw.githubusercontent.com/Ubeswap/default-token-list/master/assets/asset_POOF.png"
+        },
+        {
+            "name": "Moola cEUR",
+            "address": "0x0D9B4311657003251d1eFa085e74f761185F271c",
+            "symbol": "mcEUR",
+            "decimals": 18,
+            "chainId": 44787,
+            "logoURI": "https://raw.githubusercontent.com/Ubeswap/default-token-list/master/assets/asset_mcEUR.png"
+        },
+        {
+            "name": "Celo Euro",
+            "address": "0x10c892A6EC43a53E45D0B916B4b7D383B1b78C0F",
+            "symbol": "cEUR",
+            "decimals": 18,
+            "chainId": 44787,
+            "logoURI": "https://raw.githubusercontent.com/Ubeswap/default-token-list/master/assets/asset_cEUR.png"
+        },
+        {
+            "name": "Moola",
+            "address": "0x17700282592D6917F6A73D0bF8AcCf4D578c131e",
+            "symbol": "MOO",
+            "decimals": 18,
+            "chainId": 44787,
+            "logoURI": "https://raw.githubusercontent.com/Ubeswap/default-token-list/master/assets/asset_MOO.png"
+        },
+        {
+            "name": "Moola cUSD",
+            "address": "0x3a0EA4e0806805527C750AB9b34382642448468D",
+            "symbol": "mcUSD",
+            "decimals": 18,
+            "chainId": 44787,
+            "logoURI": "https://raw.githubusercontent.com/Ubeswap/default-token-list/master/assets/asset_mcUSD.png"
+        },
+        {
+            "name": "Moola CELO",
+            "address": "0x653cC2Cc0Be398614BAd5d5328336dc79281e246",
+            "symbol": "mCELO",
+            "decimals": 18,
+            "chainId": 44787,
+            "logoURI": "https://raw.githubusercontent.com/Ubeswap/default-token-list/master/assets/asset_mCELO.png"
+        },
+        {
+            "name": "Celo Dollar",
+            "address": "0x874069Fa1Eb16D44d622F2e0Ca25eeA172369bC1",
+            "symbol": "cUSD",
+            "decimals": 18,
+            "chainId": 44787,
+            "logoURI": "https://raw.githubusercontent.com/Ubeswap/default-token-list/master/assets/asset_cUSD.png"
+        },
+        {
+            "name": "Savings CELO",
+            "address": "0xb9B532e99DfEeb0ffB4D3EDB499f09375CF9Bf07",
+            "symbol": "sCELO",
+            "decimals": 18,
+            "chainId": 44787,
+            "logoURI": "https://raw.githubusercontent.com/Ubeswap/default-token-list/master/assets/asset_sCELO.png"
+        },
+        {
+            "name": "Rewards CELO",
+            "address": "0xBDeedCDA79BAbc4Eb509aB689895a3054461691e",
+            "symbol": "rCELO",
+            "decimals": 18,
+            "chainId": 44787,
+            "logoURI": "https://raw.githubusercontent.com/Ubeswap/default-token-list/master/assets/asset_rCELO.png"
+        },
+        {
+            "name": "Celo",
+            "address": "0xF194afDf50B03e69Bd7D057c1Aa9e10c9954E4C9",
+            "symbol": "CELO",
+            "decimals": 18,
+            "chainId": 44787,
+            "logoURI": "https://raw.githubusercontent.com/Ubeswap/default-token-list/master/assets/asset_CELO.png"
+        },
+        {
+            "name": "Wrapped Celo",
+            "address": "0xbf764dD792106fB3E97DfC0F4F7D626167808B4b",
+            "symbol": "WCELO",
+            "decimals": 18,
+            "chainId": 44787,
+            "logoURI": "https://raw.githubusercontent.com/Ubeswap/default-token-list/master/assets/asset_CELO.png"
+        },
+        {
+            "name": "DexSwapZoo",
+            "address": "0x6527229d6061996E6DCC099e135A8F656e60675f",
+            "symbol": "DEZU",
+            "decimals": 18,
+            "chainId": 44787,
+            "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/crypto-logo-asset/main/revamp-logo/transparent/Dezu.png"
+        },
+        {
+            "name": "ZooHarmony",
+            "symbol": "ZOO",
+            "address": "0xE8B00725435Bc296798194DA1B5F2f024C76aa24",
+            "decimals": 18,
+            "chainId": 44787,
+            "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/crypto-logo-asset/main/revamp-logo/transparent/Zoo.png"
+        },
+        {
+            "name": "ZooDex",
+            "symbol": "ZDEX",
+            "address": "0x05caC7e8C046B21d9125FA6aD08538D41715A426",
+            "decimals": 18,
+            "chainId": 44787,
+            "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/crypto-logo-asset/main/revamp-logo/transparent/ZooDex.png"
         }
     ]
 }
